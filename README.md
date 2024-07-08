@@ -2,14 +2,6 @@
 
 ... EN DESARROLLO ...
 
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://alxgcrz.com" target="_blank">
-    <img src="https://alxgcrz.com/assets/asset_06_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
-  </a>
-</p>
-<!-- markdownlint-enable MD033 -->
-
 ## Introducción
 
 **Ruby** es un lenguaje de programación dinámico, orientado a objetos y de propósito general que ha ganado popularidad por su sintaxis elegante y su enfoque en la productividad del desarrollador. Fue creado por Yukihiro "Matz" Matsumoto en la década de 1990 con la intención de combinar la simplicidad de Perl con la orientación a objetos de Smalltalk.
@@ -128,7 +120,7 @@ En resumen, Ruby es un lenguaje versátil que combina la elegancia sintáctica c
 
 ---
 
-## Enlaces de interés
+## Referencias
 
 - <https://www.ruby-lang.org/es/>
 - <https://rubygems.org/>
