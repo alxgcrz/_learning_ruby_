@@ -1,6 +1,6 @@
 # Ruby
 
-... EN DESARROLLO ...
+> :warning: **DOCUMENTO EN DESARROLLO** :warning:
 
 ## Introducción
 
@@ -120,7 +120,7 @@ En resumen, Ruby es un lenguaje versátil que combina la elegancia sintáctica c
 
 ---
 
-## Referencias
+## Enlaces
 
 - <https://www.ruby-lang.org/es/>
 - <https://rubygems.org/>
